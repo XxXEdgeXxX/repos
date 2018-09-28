@@ -1,0 +1,10 @@
+C:\Users\noahb\source\repos\ErrorMessages\ErrorMessages\bin\Debug\ErrorMessages.exe.config
+C:\Users\noahb\source\repos\ErrorMessages\ErrorMessages\bin\Debug\ErrorMessages.exe
+C:\Users\noahb\source\repos\ErrorMessages\ErrorMessages\bin\Debug\ErrorMessages.pdb
+C:\Users\noahb\source\repos\ErrorMessages\ErrorMessages\obj\Debug\ErrorMessages.csprojAssemblyReference.cache
+C:\Users\noahb\source\repos\ErrorMessages\ErrorMessages\obj\Debug\ErrorMessages.Form1.resources
+C:\Users\noahb\source\repos\ErrorMessages\ErrorMessages\obj\Debug\ErrorMessages.Properties.Resources.resources
+C:\Users\noahb\source\repos\ErrorMessages\ErrorMessages\obj\Debug\ErrorMessages.csproj.GenerateResource.cache
+C:\Users\noahb\source\repos\ErrorMessages\ErrorMessages\obj\Debug\ErrorMessages.csproj.CoreCompileInputs.cache
+C:\Users\noahb\source\repos\ErrorMessages\ErrorMessages\obj\Debug\ErrorMessages.exe
+C:\Users\noahb\source\repos\ErrorMessages\ErrorMessages\obj\Debug\ErrorMessages.pdb
