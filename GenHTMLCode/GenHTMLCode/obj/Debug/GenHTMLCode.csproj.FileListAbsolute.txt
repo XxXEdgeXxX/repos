@@ -1,0 +1,11 @@
+C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\bin\Debug\GenHTMLCode.exe.config
+C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\bin\Debug\GenHTMLCode.exe
+C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\bin\Debug\GenHTMLCode.pdb
+C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.csprojAssemblyReference.cache
+C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.Form1.resources
+C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.Properties.Resources.resources
+C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.csproj.GenerateResource.cache
+C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.csproj.CoreCompileInputs.cache
+C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.exe
+C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.pdb
+C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.HTMLCode.resources

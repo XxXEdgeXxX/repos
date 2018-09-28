@@ -1,0 +1,10 @@
+C:\Users\noahb\source\repos\heheXDd\heheXDd\obj\Debug\heheXDd.csprojAssemblyReference.cache
+C:\Users\noahb\source\repos\heheXDd\heheXDd\obj\Debug\heheXDd.Form1.resources
+C:\Users\noahb\source\repos\heheXDd\heheXDd\obj\Debug\heheXDd.Properties.Resources.resources
+C:\Users\noahb\source\repos\heheXDd\heheXDd\obj\Debug\heheXDd.csproj.GenerateResource.cache
+C:\Users\noahb\source\repos\heheXDd\heheXDd\obj\Debug\heheXDd.csproj.CoreCompileInputs.cache
+C:\Users\noahb\source\repos\heheXDd\heheXDd\bin\Debug\heheXDd.exe.config
+C:\Users\noahb\source\repos\heheXDd\heheXDd\bin\Debug\heheXDd.exe
+C:\Users\noahb\source\repos\heheXDd\heheXDd\bin\Debug\heheXDd.pdb
+C:\Users\noahb\source\repos\heheXDd\heheXDd\obj\Debug\heheXDd.exe
+C:\Users\noahb\source\repos\heheXDd\heheXDd\obj\Debug\heheXDd.pdb

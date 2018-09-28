@@ -1,0 +1,10 @@
+C:\Users\noahb\source\repos\diabetes\diabetes\bin\Debug\diabetes.exe.config
+C:\Users\noahb\source\repos\diabetes\diabetes\bin\Debug\diabetes.exe
+C:\Users\noahb\source\repos\diabetes\diabetes\bin\Debug\diabetes.pdb
+C:\Users\noahb\source\repos\diabetes\diabetes\obj\Debug\diabetes.csprojAssemblyReference.cache
+C:\Users\noahb\source\repos\diabetes\diabetes\obj\Debug\diabetes.Form1.resources
+C:\Users\noahb\source\repos\diabetes\diabetes\obj\Debug\diabetes.Properties.Resources.resources
+C:\Users\noahb\source\repos\diabetes\diabetes\obj\Debug\diabetes.csproj.GenerateResource.cache
+C:\Users\noahb\source\repos\diabetes\diabetes\obj\Debug\diabetes.csproj.CoreCompileInputs.cache
+C:\Users\noahb\source\repos\diabetes\diabetes\obj\Debug\diabetes.exe
+C:\Users\noahb\source\repos\diabetes\diabetes\obj\Debug\diabetes.pdb
