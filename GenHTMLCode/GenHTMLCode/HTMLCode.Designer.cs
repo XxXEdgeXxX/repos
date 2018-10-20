@@ -59,7 +59,8 @@
             this.Controls.Add(this.btnEdit);
             this.Controls.Add(this.tbCode);
             this.Name = "HTMLCode";
-            this.Text = "HTMLCode";      
+            this.Text = "HTMLCode";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.HTMLCode_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -29,12 +29,11 @@ namespace GenHTMLCode
               + "    <meta charset=\"utf-8\">{2}"
               + "      <head>{2}"
               + "        \t<title>{0}</title>{2}"
-              + "        \t<link rel=\"stylesheet\" type=\"text/css\" href=\"{1}.css\"{2}"
+              + "        \t<link rel=\"stylesheet\" type=\"text/css\" href=\"{1}.css\"{2}>"
               + "      </head>{2}"
               + "      <body></body>{2}"
               + "  </html>"
-              , Title, CSS, Environment.NewLine);
-            //HTML = "<!DOCTYPE html>" + Environment.NewLine + "<HTML>" + Environment.NewLine + "<meta charset=\"utf-8\">" + Environment.NewLine + "<head>" + Environment.NewLine + "\t<title>" + Title + "</title>" + Environment.NewLine + "\t<link rel=\"stylesheet\" type=\"text/css\" href=\"" + CSS + ".css\"" + Environment.NewLine + "</head>" + Environment.NewLine + "<body>" + Environment.NewLine + "</body>" + Environment.NewLine + "</html>";
+              , Title, CSS, Environment.NewLine);            
             tbCode.Text = HTML;
             return HTML;
         }
@@ -42,6 +41,11 @@ namespace GenHTMLCode
         private void btnEdit_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void HTMLCode_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            this.DialogResult = DialogResult.Abort;
         }
     }
 }

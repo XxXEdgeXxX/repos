@@ -9,3 +9,14 @@ C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.csproj
 C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.exe
 C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.pdb
 C:\Users\noahb\source\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.HTMLCode.resources
+E:\Gebruikers\Noah\Documents\repos\GenHTMLCode\GenHTMLCode\bin\Debug\GenHTMLCode.exe.config
+E:\Gebruikers\Noah\Documents\repos\GenHTMLCode\GenHTMLCode\bin\Debug\GenHTMLCode.exe
+E:\Gebruikers\Noah\Documents\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.csprojResolveAssemblyReference.cache
+E:\Gebruikers\Noah\Documents\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.Form1.resources
+E:\Gebruikers\Noah\Documents\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.HTMLCode.resources
+E:\Gebruikers\Noah\Documents\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.Properties.Resources.resources
+E:\Gebruikers\Noah\Documents\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.csproj.GenerateResource.cache
+E:\Gebruikers\Noah\Documents\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.csproj.CoreCompileInputs.cache
+E:\Gebruikers\Noah\Documents\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.exe
+E:\Gebruikers\Noah\Documents\repos\GenHTMLCode\GenHTMLCode\obj\Debug\GenHTMLCode.pdb
+E:\Gebruikers\Noah\Documents\repos\GenHTMLCode\GenHTMLCode\bin\Debug\GenHTMLCode.pdb
